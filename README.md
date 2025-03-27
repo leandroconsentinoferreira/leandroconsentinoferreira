@@ -1,4 +1,4 @@
-👋 Hi, I’m @leandroconsentinoferreira \
+👋 Hi, I’m @leandroconsentinoferreira (Electronics Engineer, MSc.) \
 👀 I’m interested in Embedded Systems 🤖, IoT 📱, Electronics 💻, and Product Development 📈. \
 🌱 I’m currently expanding my knowledge about Microcontrollers (ESP32, PIC, AVR) and Wireless Communication Protocols 📡. \
 💞️ I’m looking to collaborate on projects involving PCB Design (KiCAD, Altium) 📈, C/C++ Programming for embedded systems, and Automation using Python 🐍. \
